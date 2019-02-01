@@ -1,6 +1,8 @@
 class sample
 {
  -------
+ --------
+ ---------
 }
 
 class Demo
