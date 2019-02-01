@@ -1,3 +1,8 @@
+class sample
+{
+ -------
+}
+
 class Demo
 {
   void get ()
